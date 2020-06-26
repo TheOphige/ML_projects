@@ -1,1 +1,7 @@
-# ML_projects done KWASU DSC ML bootcamp
+# ML_projects
+This repo contains all my machine learning projects
+
+* Housing
+* Iris
+* Pima
+* Titanic
