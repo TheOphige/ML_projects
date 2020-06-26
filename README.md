@@ -1,4 +1,4 @@
-# ML_projects
+# my_ML_projects
 This repo contains all my machine learning projects
 
 * Housing
