@@ -1,0 +1,3 @@
+[submodule "text_summarizer"]
+	path = text_summarizer
+	url = https://github.com/TheOphige/text_summarizer.git
