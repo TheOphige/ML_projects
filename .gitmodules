@@ -25,3 +25,6 @@
 [submodule "IWRT-summarizer"]
 	path = IWRT-summarizer
 	url = https://github.com/TheOphige/IWRT-summarizer.git
+[submodule "What_are_they_saying"]
+	path = What_are_they_saying
+	url = https://github.com/TheOphige/What_are_they_saying.git
