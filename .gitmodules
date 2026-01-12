@@ -13,3 +13,6 @@
 [submodule "CourseChat"]
 	path = CourseChat
 	url = https://github.com/TheOphige/CourseChat.git
+[submodule "The-Originals"]
+	path = The-Originals
+	url = https://github.com/TheOphige/The-Originals.git
