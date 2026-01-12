@@ -10,3 +10,6 @@
 [submodule "Digital-Twin"]
 	path = Digital-Twin
 	url = https://github.com/TheOphige/Digital-Twin.git
+[submodule "CourseChat"]
+	path = CourseChat
+	url = https://github.com/TheOphige/CourseChat.git
