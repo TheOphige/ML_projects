@@ -19,3 +19,6 @@
 [submodule "life-bible-stories"]
 	path = life-bible-stories
 	url = https://github.com/TheOphige/life-bible-stories.git
+[submodule "Orro-Stories"]
+	path = Orro-Stories
+	url = https://github.com/TheOphige/Orro-Stories.git
