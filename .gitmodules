@@ -4,3 +4,9 @@
 [submodule "Image-UPscaler"]
 	path = Image-UPscaler
 	url = https://github.com/TheOphige/Image-UPscaler.git
+[submodule "ProductTube"]
+	path = ProductTube
+	url = https://github.com/TheOphige/ProductTube.git
+[submodule "Digital-Twin"]
+	path = Digital-Twin
+	url = https://github.com/TheOphige/Digital-Twin.git
