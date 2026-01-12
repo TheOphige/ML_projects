@@ -22,3 +22,6 @@
 [submodule "Orro-Stories"]
 	path = Orro-Stories
 	url = https://github.com/TheOphige/Orro-Stories.git
+[submodule "IWRT-summarizer"]
+	path = IWRT-summarizer
+	url = https://github.com/TheOphige/IWRT-summarizer.git
