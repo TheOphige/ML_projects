@@ -16,3 +16,6 @@
 [submodule "The-Originals"]
 	path = The-Originals
 	url = https://github.com/TheOphige/The-Originals.git
+[submodule "life-bible-stories"]
+	path = life-bible-stories
+	url = https://github.com/TheOphige/life-bible-stories.git
